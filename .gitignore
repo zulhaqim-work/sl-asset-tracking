@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+config.json
+uws_seq.json
+app.log
+venv/
